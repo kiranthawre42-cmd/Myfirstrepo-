@@ -12,3 +12,20 @@ int main()
   scanf ("%d",a);
   return 0;
 }
+
+#C++
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Hello GitHub!";
+    return 0;
+
+}
+
+#java 
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello GitHub!");
+    }
+}
